@@ -44,9 +44,6 @@
     "orchestra/testbench": "^4.0 || ^5.0",
     "nunomaduro/larastan": "^0.7"
   },
-  "conflict": {
-    "lcobucci/jwt": "*"
-  },
   "autoload": {
     "classmap": [
       "src/controllers",
